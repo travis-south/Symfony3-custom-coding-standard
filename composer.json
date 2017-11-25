@@ -1,14 +1,14 @@
 {
     "name": "endouble/symfony3-custom-coding-standard",
     "type": "coding-standard",
-    "description": "Customized CodeSniffer ruleset for the Symfony3 projects",
+    "description": "Fork of endouble/symfony3-custom-coding-standard",
     "keywords": ["Symfony3", "coding standard", "phpcs"],
     "homepage": "https://github.com/Endouble/Symfony3-coding-standard",
     "license": "MIT",
     "authors": [
         {
-            "name": "David Joos",
-            "email": "david.joos@escapestudios.com"
+            "name": "Irvin Capagcuan",
+            "email": "irvin@capagcuan.org"
         }
     ],
     "extra": {
