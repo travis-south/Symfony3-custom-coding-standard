@@ -1,5 +1,5 @@
 {
-    "name": "endouble/symfony3-custom-coding-standard",
+    "name": "travis-south/symfony3-custom-coding-standard",
     "type": "coding-standard",
     "description": "Fork of endouble/symfony3-custom-coding-standard",
     "keywords": ["Symfony3", "coding standard", "phpcs"],
