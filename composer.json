@@ -3,7 +3,7 @@
     "type": "coding-standard",
     "description": "Fork of endouble/symfony3-custom-coding-standard",
     "keywords": ["Symfony3", "coding standard", "phpcs"],
-    "homepage": "https://github.com/Endouble/Symfony3-coding-standard",
+    "homepage": "https://github.com/travis-south/Symfony3-coding-standard",
     "license": "MIT",
     "authors": [
         {
